@@ -1,0 +1,82 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+#mainHeader {
+ background-color:#B0C4DE;
+}
+
+nav .navbar-nav li a{
+  color: white!important;
+  }
+
+nav .navbar-nav li a:hover {
+    color:   #7ab9f3!important;
+    }
+.index
+padding: 154px 0 100px;
+
+h1{
+  color:  #212f3c;
+}
+
+/*header {
+  padding: 154px 0 100px;
+}*/
+
+.index {
+padding: 100px 0 50px;
+
+}
+
+ .table {
+      width: 50%;
+    }
+		table,
+		th {
+			text-align: center;
+		},
+    tbody td
+    {word-break: break-word;
+    vertical-align: top;}
+		/*make odd rows lightblue
+		.table-striped > tbody > tr:nth-child(odd) > td {
+			background-color: #6897BB;
+		}
+*/
+footer p
+{
+  color: black !important;
+}
+
+footer a:hover
+
+{
+  color: #7ab9f3 !important;
+  }
+
+
+@media (min-width: 768px) {
+  header {
+    padding: 120px 0 50px;
+  }
+
+section {
+  padding: 50px 0;
+}
+
+ table {
+      width: 100%;
+    }
+		table,
+		th {
+			text-align: center;
+		}
+		/*make odd rows lightblue
+		.table-striped > tbody > tr:nth-child(odd) > td {
+			background-color: #f4f7ff;
+		}
+*/
+}
